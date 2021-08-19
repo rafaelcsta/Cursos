@@ -21,5 +21,5 @@ Links para cursos:
 ##### https://www.linkedin.com/learning/me
 ##### https://g1.globo.com/economia/concursos-e-emprego/noticia/2021/04/01/veja-mais-de-cem-cursos-online-gratis-para-turbinar-o-curriculo-e-ampliar-o-conhecimento-na-pandemia.ghtml
 ##### https://www.wreducacional.com.br/area-aluno
-
+##### https://www.offensive-security.com/metasploit-unleashed/
 
